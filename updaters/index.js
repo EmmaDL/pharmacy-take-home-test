@@ -9,6 +9,7 @@ const drugUpdaters = {
   [DRUG_NAMES.HERBAL_TEA]: herbalTeaUpdater,
   [DRUG_NAMES.FERVEX]: fervexUpdater,
   [DRUG_NAMES.MAGIC_PILL]: magicPillUpdater,
+  [DRUG_NAMES.DAFALGAN]: dafalganUpdater,
 };
 
 export function getDrugUpdater(name) {

@@ -7,6 +7,11 @@
         "benefit": 29
       },
       {
+        "name": "Dafalgan",
+        "expiresIn": 19,
+        "benefit": 28
+      },
+      {
         "name": "Herbal Tea",
         "expiresIn": 9,
         "benefit": 6
@@ -27,6 +32,11 @@
         "name": "Doliprane",
         "expiresIn": 18,
         "benefit": 28
+      },
+      {
+        "name": "Dafalgan",
+        "expiresIn": 18,
+        "benefit": 26
       },
       {
         "name": "Herbal Tea",
@@ -51,6 +61,11 @@
         "benefit": 27
       },
       {
+        "name": "Dafalgan",
+        "expiresIn": 17,
+        "benefit": 24
+      },
+      {
         "name": "Herbal Tea",
         "expiresIn": 7,
         "benefit": 8
@@ -71,6 +86,11 @@
         "name": "Doliprane",
         "expiresIn": 16,
         "benefit": 26
+      },
+      {
+        "name": "Dafalgan",
+        "expiresIn": 16,
+        "benefit": 22
       },
       {
         "name": "Herbal Tea",
@@ -95,6 +115,11 @@
         "benefit": 25
       },
       {
+        "name": "Dafalgan",
+        "expiresIn": 15,
+        "benefit": 20
+      },
+      {
         "name": "Herbal Tea",
         "expiresIn": 5,
         "benefit": 10
@@ -115,6 +140,11 @@
         "name": "Doliprane",
         "expiresIn": 14,
         "benefit": 24
+      },
+      {
+        "name": "Dafalgan",
+        "expiresIn": 14,
+        "benefit": 18
       },
       {
         "name": "Herbal Tea",
@@ -139,6 +169,11 @@
         "benefit": 23
       },
       {
+        "name": "Dafalgan",
+        "expiresIn": 13,
+        "benefit": 16
+      },
+      {
         "name": "Herbal Tea",
         "expiresIn": 3,
         "benefit": 12
@@ -159,6 +194,11 @@
         "name": "Doliprane",
         "expiresIn": 12,
         "benefit": 22
+      },
+      {
+        "name": "Dafalgan",
+        "expiresIn": 12,
+        "benefit": 14
       },
       {
         "name": "Herbal Tea",
@@ -183,6 +223,11 @@
         "benefit": 21
       },
       {
+        "name": "Dafalgan",
+        "expiresIn": 11,
+        "benefit": 12
+      },
+      {
         "name": "Herbal Tea",
         "expiresIn": 1,
         "benefit": 14
@@ -203,6 +248,11 @@
         "name": "Doliprane",
         "expiresIn": 10,
         "benefit": 20
+      },
+      {
+        "name": "Dafalgan",
+        "expiresIn": 10,
+        "benefit": 10
       },
       {
         "name": "Herbal Tea",
@@ -227,6 +277,11 @@
         "benefit": 19
       },
       {
+        "name": "Dafalgan",
+        "expiresIn": 9,
+        "benefit": 8
+      },
+      {
         "name": "Herbal Tea",
         "expiresIn": -1,
         "benefit": 17
@@ -247,6 +302,11 @@
         "name": "Doliprane",
         "expiresIn": 8,
         "benefit": 18
+      },
+      {
+        "name": "Dafalgan",
+        "expiresIn": 8,
+        "benefit": 6
       },
       {
         "name": "Herbal Tea",
@@ -271,6 +331,11 @@
         "benefit": 17
       },
       {
+        "name": "Dafalgan",
+        "expiresIn": 7,
+        "benefit": 4
+      },
+      {
         "name": "Herbal Tea",
         "expiresIn": -3,
         "benefit": 21
@@ -291,6 +356,11 @@
         "name": "Doliprane",
         "expiresIn": 6,
         "benefit": 16
+      },
+      {
+        "name": "Dafalgan",
+        "expiresIn": 6,
+        "benefit": 2
       },
       {
         "name": "Herbal Tea",
@@ -315,6 +385,11 @@
         "benefit": 15
       },
       {
+        "name": "Dafalgan",
+        "expiresIn": 5,
+        "benefit": 0
+      },
+      {
         "name": "Herbal Tea",
         "expiresIn": -5,
         "benefit": 25
@@ -335,6 +410,11 @@
         "name": "Doliprane",
         "expiresIn": 4,
         "benefit": 14
+      },
+      {
+        "name": "Dafalgan",
+        "expiresIn": 4,
+        "benefit": 0
       },
       {
         "name": "Herbal Tea",
@@ -359,6 +439,11 @@
         "benefit": 13
       },
       {
+        "name": "Dafalgan",
+        "expiresIn": 3,
+        "benefit": 0
+      },
+      {
         "name": "Herbal Tea",
         "expiresIn": -7,
         "benefit": 29
@@ -379,6 +464,11 @@
         "name": "Doliprane",
         "expiresIn": 2,
         "benefit": 12
+      },
+      {
+        "name": "Dafalgan",
+        "expiresIn": 2,
+        "benefit": 0
       },
       {
         "name": "Herbal Tea",
@@ -403,6 +493,11 @@
         "benefit": 11
       },
       {
+        "name": "Dafalgan",
+        "expiresIn": 1,
+        "benefit": 0
+      },
+      {
         "name": "Herbal Tea",
         "expiresIn": -9,
         "benefit": 33
@@ -423,6 +518,11 @@
         "name": "Doliprane",
         "expiresIn": 0,
         "benefit": 10
+      },
+      {
+        "name": "Dafalgan",
+        "expiresIn": 0,
+        "benefit": 0
       },
       {
         "name": "Herbal Tea",
@@ -447,6 +547,11 @@
         "benefit": 8
       },
       {
+        "name": "Dafalgan",
+        "expiresIn": -1,
+        "benefit": 0
+      },
+      {
         "name": "Herbal Tea",
         "expiresIn": -11,
         "benefit": 37
@@ -467,6 +572,11 @@
         "name": "Doliprane",
         "expiresIn": -2,
         "benefit": 6
+      },
+      {
+        "name": "Dafalgan",
+        "expiresIn": -2,
+        "benefit": 0
       },
       {
         "name": "Herbal Tea",
@@ -491,6 +601,11 @@
         "benefit": 4
       },
       {
+        "name": "Dafalgan",
+        "expiresIn": -3,
+        "benefit": 0
+      },
+      {
         "name": "Herbal Tea",
         "expiresIn": -13,
         "benefit": 41
@@ -513,6 +628,11 @@
         "benefit": 2
       },
       {
+        "name": "Dafalgan",
+        "expiresIn": -4,
+        "benefit": 0
+      },
+      {
         "name": "Herbal Tea",
         "expiresIn": -14,
         "benefit": 43
@@ -531,6 +651,11 @@
     [
       {
         "name": "Doliprane",
+        "expiresIn": -5,
+        "benefit": 0
+      },
+      {
+        "name": "Dafalgan",
         "expiresIn": -5,
         "benefit": 0
       },
@@ -557,6 +682,11 @@
         "benefit": 0
       },
       {
+        "name": "Dafalgan",
+        "expiresIn": -6,
+        "benefit": 0
+      },
+      {
         "name": "Herbal Tea",
         "expiresIn": -16,
         "benefit": 47
@@ -575,6 +705,11 @@
     [
       {
         "name": "Doliprane",
+        "expiresIn": -7,
+        "benefit": 0
+      },
+      {
+        "name": "Dafalgan",
         "expiresIn": -7,
         "benefit": 0
       },
@@ -601,6 +736,11 @@
         "benefit": 0
       },
       {
+        "name": "Dafalgan",
+        "expiresIn": -8,
+        "benefit": 0
+      },
+      {
         "name": "Herbal Tea",
         "expiresIn": -18,
         "benefit": 50
@@ -623,6 +763,11 @@
         "benefit": 0
       },
       {
+        "name": "Dafalgan",
+        "expiresIn": -9,
+        "benefit": 0
+      },
+      {
         "name": "Herbal Tea",
         "expiresIn": -19,
         "benefit": 50
@@ -641,6 +786,11 @@
     [
       {
         "name": "Doliprane",
+        "expiresIn": -10,
+        "benefit": 0
+      },
+      {
+        "name": "Dafalgan",
         "expiresIn": -10,
         "benefit": 0
       },

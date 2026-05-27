@@ -75,6 +75,20 @@ describe("Pharmacy", () => {
     });
   });
 
+  describe("Dafalgan", () => {
+    it("decreases benefit twice as fast as normal drugs", () => {
+      const drug = updateSingleDrug("Dafalgan", 2, 10);
+
+      expect(drug).toMatchObject({ expiresIn: 1, benefit: 8 });
+    });
+
+    it("decreases benefit four times as fast after expiration", () => {
+      const drug = updateSingleDrug("Dafalgan", 0, 10);
+
+      expect(drug).toMatchObject({ expiresIn: -1, benefit: 6 });
+    });
+  });
+
   describe("Fervex", () => {
     it("increases benefit by 1 when more than 10 days remain", () => {
       const drug = updateSingleDrug("Fervex", 12, 35);
@@ -109,6 +123,7 @@ describe("Pharmacy", () => {
       const actual = simulateDays(
         [
           ["Doliprane", 20, 30],
+          ["Dafalgan", 20, 30],
           ["Herbal Tea", 10, 5],
           ["Fervex", 12, 35],
           ["Magic Pill", 15, 40],
